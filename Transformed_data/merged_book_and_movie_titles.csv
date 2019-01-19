@@ -3,10 +3,10 @@ around the world in eighty days,7.8,,,"Around the World in Eighty Days (Extraord
 body snatchers,5.9,,,Invasion of the Body Snatchers,3.89,17372.0
 frankenstein,7.9,3.77,,Frankenstein,3.77,992097.0
 the invisible man,7.7,,,Invisible Man,3.85,139953.0
-journey to the center of the earth,5.8,,,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
+journey to the center of the earth,5.8,,101653320.0,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
 the mysterious island,6.0,,,"The Mysterious Island (Extraordinary Voyages, #12)",4.1,38405.0
 nineteen eighty-four,7.6,4.16,,Nineteen Eighty-Four,4.16,2486019.0
-planet of the apes,5.7,3.93,,Planet of the Apes,3.93,28719.0
+planet of the apes,5.7,3.93,178094583.0,Planet of the Apes,3.93,28719.0
 twenty thousand leagues under the sea,6.0,3.87,,"Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)",3.87,167437.0
 village of the damned,5.6,,,Retirement Village of the Damned,3.17,6.0
 the war of the worlds,7.2,3.81,,The War of the Worlds,3.81,206289.0
@@ -22,11 +22,11 @@ amphibian man,7.2,,,The Amphibian,4.14,3130.0
 the andromeda nebula,,,,Andromeda Nebula,4.0,2.0
 the andromeda strain,7.2,3.89,,The Andromeda Strain,3.89,196536.0
 anna to the infinite power,6.6,3.91,,Anna to the Infinite Power,3.91,549.0
-annihilation,6.9,,,"Annihilation (Southern Reach, #1)",3.67,116042.0
+annihilation,6.9,,20636742.0,"Annihilation (Southern Reach, #1)",3.67,116042.0
 atlas shrugged: part ii,,,,Atragon,0.0,0.0
-atlas shrugged: part i,5.7,,,"Atlas Shrugged, Part A",4.19,2349.0
+atlas shrugged: part i,5.7,,4563873.0,"Atlas Shrugged, Part A",4.19,2349.0
 atragon,6.1,0.0,,Battle Royale,4.25,45972.0
-babylon a.d.,5.6,3.35,,Battlefield Earth: A Saga of the Year 3000,3.51,15360.0
+babylon a.d.,5.6,3.35,22489779.0,Battlefield Earth: A Saga of the Year 3000,3.51,15360.0
 battle royale,7.7,4.25,,"Blademage Beastmaster (Blademage, #1)",3.85,410.0
 battlefield earth,2.5,,,The Bicentennial Man and Other Stories,4.08,10430.0
 the beastmaster,6.2,,,"Bill, the Galactic Hero (Bill, the Galactic Hero, #1)",3.59,3608.0
@@ -43,12 +43,12 @@ cell,4.3,3.65,,Charodei ponevole,0.0,0.0
 the incredible shrinking woman,5.4,2.67,,"K-Pax (K-Pax, #1)",4.09,2381.0
 the thirteenth floor,7.0,,,"The World, the Flesh and the Devil",3.92,133.0
 charodei,7.3,,,The Circle,3.44,160697.0
-children of men,7.9,,,"The City of Ember (Book of Ember, #1)",3.86,220872.0
+children of men,7.9,,35100000.0,"The City of Ember (Book of Ember, #1)",3.86,220872.0
 children of the damned,6.2,,,A Clockwork Orange,3.99,517576.0
-the circle,5.3,3.44,,Cloud Atlas,4.02,189776.0
-city of ember,6.5,,,Cocoon,3.95,317.0
+the circle,5.3,3.44,20476300.0,Cloud Atlas,4.02,189776.0
+city of ember,6.5,,7800000.0,Cocoon,3.95,317.0
 a clockwork orange,8.3,3.99,,"Films Directed by Joseph Sargent (Study Guide): Jaws: The Revenge, the Taking of Pelham One Two Three, Colossus: The Forbin Project, Nightmares",0.0,0.0
-cloud atlas,7.5,4.02,,Congo,3.58,144024.0
+cloud atlas,7.5,4.02,22100000.0,Congo,3.58,144024.0
 cocoon,6.7,3.95,,The Futurological Congress: From the Memoirs of Ijon Tichy,4.21,7789.0
 colossus: the forbin project,7.2,,,The Conquest of Space,4.23,31.0
 congo,5.1,3.58,,"Focus On: Search for Extraterrestrial Intelligence: Fermi Paradox, Kardashev Scale, Wow! Signal, Dyson Sphere, Contact (1997 American film), Voyager Golden ... Pioneer Plaque, Arecibo Message, etc.",0.0,0.0
@@ -75,9 +75,9 @@ dreamscape,6.3,,,The Edge of Tomorrow,3.94,1057.0
 the incredible shrinking man,7.7,3.83,,"Jurassic Park (Jurassic Park, #1)",4.0,716165.0
 village of the damned,5.6,,,Retirement Village of the Damned,3.17,6.0
 earth vs. the flying saucers,6.4,0.0,,Twenty Thousand Leagues Under the Sea,3.87,167437.0
-edge of tomorrow,7.9,,,The Face of Another,3.78,2716.0
+edge of tomorrow,7.9,,77121429.0,The Face of Another,3.78,2716.0
 the end of eternity,,4.23,,Fahrenheit 451,3.98,1354775.0
-ender's game,6.6,,,Fantastic Planet,3.43,21.0
+ender's game,6.6,,61656849.0,Fantastic Planet,3.43,21.0
 twenty thousand leagues under the sea,6.0,3.87,,"Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)",3.87,167437.0
 the face of another,8.0,3.78,,Four-Sided Triangle,3.6,30.0
 fahrenheit 451,7.3,3.98,,Freejack,3.82,1799.0
@@ -88,7 +88,7 @@ four sided triangle,5.9,,,"Gladiator (Galactic Gladiators, #1)",4.0,2264.0
 freejack,5.3,3.82,,Goldengirl,3.27,44.0
 the girl who leapt through time,7.8,3.34,,Tarnsman of Gor (Gor #1),3.41,3586.0
 the girl with all the gifts,6.7,,,The Guest from the Future: Anna Akhmatova and Isaiah Berlin,3.84,19.0
-the giver,6.5,4.12,,The Handmaid's Tale,4.09,996065.0
+the giver,6.5,4.12,33480518.0,The Handmaid's Tale,4.09,996065.0
 "bill, the galactic hero",5.3,,,Blueprints,3.72,6217.0
 goldengirl,4.5,3.27,,Harrison Bergeron,4.22,12160.0
 the last man on earth,7.4,,,The Martian,4.4,652405.0
@@ -97,20 +97,20 @@ the handmaid's tale,8.6,4.09,,"The Host (The Host, #1)",3.84,816627.0
 hard to be a god,6.7,4.22,,The Hunger Games Series (A BookCaps Study Guide),4.34,67.0
 harrison bergeron,7.4,4.22,,I Am Legend,4.06,74727.0
 the high crusade,5.0,3.9,,"I Am Number Four (Lorien Legacies, #1)",3.94,290790.0
-the hitchhiker's guide to the galaxy,6.8,,,"In Search of the Castaways; or the Children of Captain Grant (Extraordinary Voyages, #5)",4.08,9196.0
+the hitchhiker's guide to the galaxy,6.8,,51019112.0,"In Search of the Castaways; or the Children of Captain Grant (Extraordinary Voyages, #5)",4.08,9196.0
 the war of the worlds,7.2,3.81,,The War of the Worlds,3.81,206289.0
-the hunger games,7.2,,,The Incredible Shrinking Woman,2.67,6.0
-i am legend,7.2,4.06,,The Art of the Iron Giant - CANCELLED,4.28,46.0
-i am number four,6.1,,,The Iron Heel,3.75,6871.0
+the hunger games,7.2,,407981652.0,The Incredible Shrinking Woman,2.67,6.0
+i am legend,7.2,4.06,256399999.0,The Art of the Iron Giant - CANCELLED,4.28,46.0
+i am number four,6.1,,55086029.0,The Iron Heel,3.75,6871.0
 in search of the castaways,6.7,,,"Jumper (Jumper, #1)",3.9,12137.0
 the incredible shrinking man,7.7,3.83,,"Jurassic Park (Jurassic Park, #1)",4.0,716165.0
 the incredible shrinking woman,5.4,2.67,,"K-Pax (K-Pax, #1)",4.09,2381.0
 the iron giant,8.0,,,"The Land That Time Forgot (Caspak, #1)",3.81,2376.0
 the iron heel,,3.75,,"The Last Man on Earth (The Graysons, #1)",3.42,826.0
 the island at the top of the world,6.3,,,Hippocrates Lifeforce: Superior Health and Longevity,4.26,35.0
-i am number four,6.1,,,The Iron Heel,3.75,6871.0
-jurassic park,8.1,,,The Lost World (Jurassic Park #2),3.76,104799.0
-k-pax,7.4,,,Le Maître Du Temps,4.33,3.0
+i am number four,6.1,,55086029.0,The Iron Heel,3.75,6871.0
+jurassic park,8.1,,45299680.0,The Lost World (Jurassic Park #2),3.76,104799.0
+k-pax,7.4,,50040205.0,Le Maître Du Temps,4.33,3.0
 the land that time forgot,5.7,,,"Marooned in Realtime (Across Realtime, #2)",4.08,4670.0
 the last man on earth,7.4,,,The Martian,4.4,652405.0
 the lathe of heaven,7.2,4.1,,Maze Runner: The Death Cure: The Official Graphic Novel Prelude,3.92,106.0
@@ -120,44 +120,44 @@ the lost world: jurassic park,6.5,,,"Dark Metropolis (Dark Metropolis, #1)",3.43
 les maîtres du temps,,,,"The Girl with the Dragon Tattoo (Millennium, #1)",4.13,2223909.0
 the man who fell to earth,6.7,4.03,,The Extended Mission of Stardust Four Zero,3.0,1.0
 a wrinkle in time,4.2,,,,,
-the martian,8.0,4.4,,Mr. Murder,3.74,22335.0
-maze runner: the death cure,6.3,,,Night Of The Big Heat,3.44,18.0
-maze runner: the death cure,6.3,,,Night Of The Big Heat,3.44,18.0
+the martian,8.0,4.4,202313768.0,Mr. Murder,3.74,22335.0
+maze runner: the death cure,6.3,,57074211.0,Night Of The Big Heat,3.44,18.0
+maze runner: the death cure,6.3,,57074211.0,Night Of The Big Heat,3.44,18.0
 maze runner: the scorch trials,6.3,,,The Hidden Oasis,3.78,2155.0
-edge of tomorrow,7.9,,,The Face of Another,3.78,2716.0
+edge of tomorrow,7.9,,77121429.0,The Face of Another,3.78,2716.0
 memoirs of an invisible man,5.9,4.11,,Tarzan And The Silver Globe ..,2.83,6.0
-metropolis,8.3,,,Paprika,3.26,2018.0
+metropolis,8.3,,529603.0,Paprika,3.26,2018.0
 the girl with all the gifts,6.7,,,The Guest from the Future: Anna Akhmatova and Isaiah Berlin,3.84,19.0
 mission stardust,3.9,,,"The People That Time Forgot (Caspak, #2)",3.7,1706.0
 mortal engines,6.5,3.83,,The Postman,3.88,28329.0
 mr. murder,,3.74,,The Power,3.88,85557.0
-never let me go,7.2,3.81,,The Prestige,3.88,15618.0
+never let me go,7.2,3.81,2412045.0,The Prestige,3.88,15618.0
 night of the big heat,,3.44,,"A Princess of Mars (Barsoom, #1)",3.8,46300.0
 the iron giant,8.0,,,"The Land That Time Forgot (Caspak, #1)",3.81,2376.0
 the omega man,6.6,,,The Quiet Earth,3.52,314.0
 on the silver globe,7.3,,,Radio Free Albemuth,3.8,5044.0
-paprika,7.7,3.26,,Return from Witch Mountain,3.76,508.0
+paprika,7.7,3.26,720502.0,Return from Witch Mountain,3.76,508.0
 parasite eve,5.9,3.59,,"The Gods of Riverworld (Riverworld, #5)",3.62,3313.0
 the people that time forgot,5.4,,,The Road,3.96,622113.0
 the postman,6.0,3.88,,The Running Man,3.85,84062.0
 the power,6.1,3.88,,The Satan Bug,3.7,2228.0
-the prestige,8.5,3.88,,A Scanner Darkly,4.03,72854.0
+the prestige,8.5,3.88,53100000.0,A Scanner Darkly,4.03,72854.0
 princess of mars,3.1,,,Skullduggery,3.4,10.0
-project x,6.7,3.57,,"Solar Dance: Genius, Forgery and the Crisis of Truth in the Modern Age",3.39,107.0
+project x,6.7,3.57,53400000.0,"Solar Dance: Genius, Forgery and the Crisis of Truth in the Modern Age",3.39,107.0
 lorelei: the witch of the pacific ocean,5.3,,,Memoirs of an Invisible Man,4.11,1465.0
 the quiet earth,6.8,3.52,,"Sherman: Soldier, Realist, American",4.13,213.0
-radio free albemuth,5.8,3.8,,Solo,3.99,6703.0
+radio free albemuth,5.8,3.8,169298.0,Solo,3.99,6703.0
 ready player one,7.5,,,Somewhere In Time,3.89,6168.0
 return from witch mountain,5.9,3.76,,La soupe aux choux,3.97,60.0
 the war of the worlds,7.2,3.81,,The War of the Worlds,3.81,206289.0
-the road,7.3,3.96,,"Articles on Films Based on IRA Levin's Works, Including: The Boys from Brazil (Film), the Stepford Wives (2004 Film), a Kiss Before Dying (1991 Film), the Stepford Wives (1975 Film), Rosemary's Baby (Film), the Stepford Children",1.0,1.0
+the road,7.3,3.96,8025059.0,"Articles on Films Based on IRA Levin's Works, Including: The Boys from Brazil (Film), the Stepford Wives (2004 Film), a Kiss Before Dying (1991 Film), the Stepford Wives (1975 Film), Rosemary's Baby (Film), the Stepford Children",1.0,1.0
 the running man,6.7,3.85,,Stepford Husbands,2.75,12.0
 the satan bug,6.2,3.7,,The Stepford Wives,3.74,24468.0
-a scanner darkly,7.1,4.03,,Subterranean,4.02,20606.0
+a scanner darkly,7.1,4.03,5281537.0,Subterranean,4.02,20606.0
 skullduggery,4.7,3.4,,"Damned (Damned, #1)",3.38,42425.0
 slaughterhouse-five,6.9,4.07,,The Prisoners of the Thirteenth Floor,4.29,7.0
-journey to the center of the earth,5.8,,,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
-solaris,6.2,3.98,,The Three-Body Problem (Remembrance of Earth’s Past #1),4.05,81604.0
+journey to the center of the earth,5.8,,101653320.0,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
+solaris,6.2,3.98,14780776.0,The Three-Body Problem (Remembrance of Earth’s Past #1),4.05,81604.0
 the divergent series: allegiant,,,,"Eagle Eye (Shadows in the Dark, #6)",0.0,0.0
 solo,3.9,3.99,,The Time Traveler's Wife,3.96,1421801.0
 somewhere in time,7.3,3.89,,Timeline,3.84,171603.0
@@ -167,7 +167,7 @@ the island at the top of the world,6.3,,,Hippocrates Lifeforce: Superior Health 
 starship troopers,7.2,4.0,,The Tunnel Under the World,3.9,400.0
 "the world, the flesh and the devil",7.0,3.92,,,,
 the stepford husbands,4.5,,,The Village Schoolmaster,3.3,40.0
-the stepford wives,5.3,3.74,,Vinyl (Vinyl #1),4.14,400.0
+the stepford wives,5.3,3.74,59341993.0,Vinyl (Vinyl #1),4.14,400.0
 the strange world of planet x,4.9,3.0,,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,4.11,84456.0
 the subterraneans,5.2,,,All the Light We Cannot See,4.33,751711.0
 amphibian man,7.2,,,The Amphibian,4.14,3130.0
@@ -175,9 +175,9 @@ somewhere in time,7.3,3.89,,Timeline,3.84,171603.0
 the thirteenth floor,7.0,,,"The World, the Flesh and the Devil",3.92,133.0
 this island earth,5.9,3.66,,"A Wrinkle in Time (Time Quintet, #1)",4.02,829546.0
 the three-body problem,,,,Z for Zachariah,3.65,12702.0
-the time machine,5.9,3.88,,,,
-the time traveler's wife,7.1,3.96,,,,
-timeline,5.6,3.84,,,,
+the time machine,5.9,3.88,56684819.0,,,
+the time traveler's wife,7.1,3.96,63387284.0,,,
+timeline,5.6,3.84,19375474.0,,,
 timescape,6.3,3.73,,,,
 à ton image,4.8,2.0,,,,
 a trip to the moon,8.2,,,,,
@@ -189,7 +189,7 @@ the island at the top of the world,6.3,,,Hippocrates Lifeforce: Superior Health 
 the face of another,8.0,3.78,,Four-Sided Triangle,3.6,30.0
 when worlds collide,6.7,,,,,
 woman in the moon,7.4,,,,,
-journey to the center of the earth,5.8,,,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
+journey to the center of the earth,5.8,,101653320.0,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",3.85,126361.0
 "the world, the flesh and the devil",7.0,3.92,,,,
 a wrinkle in time,4.2,,,,,
-z for zachariah,6.0,3.65,,,,
+z for zachariah,6.0,3.65,118483.0,,,
