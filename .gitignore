@@ -1,3 +1,9 @@
 .ipynb_checkpoints/*
 input\ csv/br*
+<<<<<<< HEAD
 .DS_Store
+=======
+Plots/.ipynb_checkpoints/plot-checkpoint.ipynb
+Plots/plot.ipynb
+Transformed_data/.DS_Store
+>>>>>>> master
