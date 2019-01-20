@@ -51,7 +51,8 @@ Here are the steps that were taken and some of the problems we found:
          * [Movies Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Movies%20Ratings%20vs%20Movies%20Revenues.png)
          * [Books Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Books%20Ratings%20vs%20Movies%20Revenues.png)
 
-   * [Naim] has made the dataset available in a SQL database
+   * [Naim] has made the dataset available for loading into MongoDB
+   NoSQL database
       * Code:
       * Input:
       * Output:
