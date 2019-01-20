@@ -34,7 +34,7 @@ Here are the steps that were taken and some of the problems we found:
    * [Callan](https://github.com/callanyan) merged the book ratings with the results from the OMDb queries to get a combined dataset with book and movie titles and their corresponding ratings, and movie revenues
       * Code: [OMDB5.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/OMDB5.ipynb)
       * Inputs: [input\ csv/merged_list.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/merged_list.csv) and [Transformed_data/movieListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/movieListDB.csv)
-      * Output: [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv)
+      * Output: [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv) and a cleaner [Transformed_data/bookListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/bookListDB.csv)
 
    * We did not have the [input\ csv/merged_list.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/merged_list.csv) at the beginning, so [Naim](https://github.com/naim-panjwani/) merged book and movie titles by similarity from an older version of [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv). This worked well, but these results won't be used as it's best to use the queried title strings merged with their corresponding movie titles
       * Code: [Merge_book_movie_titles_by_similarity.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/Merge_book_movie_titles_by_similarity.ipynb)
@@ -51,8 +51,8 @@ Here are the steps that were taken and some of the problems we found:
          * [Movies Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Movies%20Ratings%20vs%20Movies%20Revenues.png)
          * [Books Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Books%20Ratings%20vs%20Movies%20Revenues.png)
 
-   * [Naim](https://github.com/naim-panjwani/) has dumped the dataset into MongoDB
-   NoSQL database
-      * Code:
-      * Input:
-      * Output:
+   * [Naim](https://github.com/naim-panjwani/) has written a script ([MongoDump.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/MongoDump.ipynb)) to enable dumping of the books and films information extracted into MongoDB database called adapted_scifi_films_db, creating a books and movies collection
+   * Furthermore, once the database is created, [MongoLoad.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/MongoLoad.ipynb) enables loading into pandas dataframes, and a quick inner join creates the CombinedDF dataframe between movies and books 
+      * Code: [MongoDump.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/MongoDump.ipynb) and [MongoLoad.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/MongoLoad.ipynb)
+      * Input: [Transformed_data/bookListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/bookListDB.csv) and [Transformed_data/movieListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/movieListDB.csv)
+      * Output: adapted_scifi_films_db MongoDB database with books and movies collections
