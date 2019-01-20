@@ -10,11 +10,11 @@ Here are the steps that were taken and some of the problems we found:
 
 1. Get the list of science fiction books adapted into films  
    * [Purnima](https://github.com/PurnimaChande://github.com/PurnimaChandel) scrapped [Wikipedia](https://en.wikipedia.org/wiki/Category:Films_based_on_science_fiction_novels) to get the list of science fiction books adapted into films.  
-      * Code: [goodread_scrape.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/goodread_scrape.ipynb)
-      * Output: [input\ csv/booklist_ratings.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/booklist_ratings.csv)
+      * Code: [Wikipedia_scrapping-Copy1.ipynb](https://github.com/naim-panjwani/books_and_films/tree/master/web%20scrapping)
+      * Output: [newmovielist.csv](https://github.com/naim-panjwani/books_and_films/tree/master/input%20csv)
 
 2. Obtain book ratings  
-   * [Purnima](https://github.com/PurnimaChande://github.com/PurnimaChandel) scrapped [GoodReads](www.goodreads.com), using the [list from step 1](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/booklist_ratings.csv) as search queries, to get the user ratings of these adapted science fiction books.
+   * [Purnima](https://github.com/PurnimaChande://github.com/PurnimaChandel) scrapped [GoodReads](www.goodreads.com), using the [list from step 1](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/newmovielist.csv) as search queries, to get the user ratings of these adapted science fiction books.
       * Code: [web\ scrapping/goodread_scrape-Copy1.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/web%20scrapping/goodread_scrape-Copy1.ipynb)
       * Input: [input\ csv/newmovielist.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/newmovielist.csv)
       * Output: [input\ csv/merged_list.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input%20csv/merged_list.csv)
