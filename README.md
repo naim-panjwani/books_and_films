@@ -43,7 +43,7 @@ Here are the steps that were taken and some of the problems we found:
 
 ## Load
 
-   * [Tigran] loaded the [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv) file to plot the relationships below:
+   * [Tigran](https://github.com/tikoz86) loaded the [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv) file to plot the relationships below:
       * Code: [Plots/plot.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/plot.ipynb)
       * Input: [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv)
       * Output:
@@ -51,7 +51,7 @@ Here are the steps that were taken and some of the problems we found:
          * [Movies Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Movies%20Ratings%20vs%20Movies%20Revenues.png)
          * [Books Ratings vs Movies Revenues.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/Books%20Ratings%20vs%20Movies%20Revenues.png)
 
-   * [Naim] has made the dataset available for loading into MongoDB
+   * [Naim](https://github.com/naim-panjwani/) has made the dataset available for loading into MongoDB
    NoSQL database
       * Code:
       * Input:
