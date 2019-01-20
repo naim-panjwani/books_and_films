@@ -25,14 +25,14 @@ Here are the steps that were taken and some of the problems we found:
 
 3. Obtain film ratings
    * [Callan](https://github.com/callanyan) queried the [list from step 1](https://github.com/naim-panjwani/books_and_films/blob/master/input_csv/booklist_ratings.csv) to the [OMDb API](http://www.omdbapi.com/) to extract movie  ratings and their revenue
-      * Code: [API_manipulation/OMDB5.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/API_manipulation/OMDB5.ipynb)
+      * Code: [API_manipulation/OMDB_API.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/API_manipulation/OMDB_API.ipynb)
       * Input: [input_csv/newmovielist.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input_csv/newmovielist.csv)
       * Output: [Transformed_data/movieListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/movieListDB.csv)
 
 ## Transform
 
    * [Callan](https://github.com/callanyan) merged the book ratings with the results from the OMDb queries to get a combined dataset with book and movie titles and their corresponding ratings, and movie revenues
-      * Code: [API_manipulation/OMDB5.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/API_manipulation/OMDB5.ipynb)
+      * Code: [API_manipulation/OMDB_API.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/API_manipulation/OMDB_API.ipynb)
       * Inputs: [input_csv/merged_list.csv](https://github.com/naim-panjwani/books_and_films/blob/master/input_csv/merged_list.csv) and [Transformed_data/movieListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/movieListDB.csv)
       * Output: [Transformed_data/CombinedDF.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/CombinedDF.csv) and a cleaner [Transformed_data/bookListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/bookListDB.csv)
 
