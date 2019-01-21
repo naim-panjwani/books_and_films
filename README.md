@@ -61,3 +61,4 @@ Here are the steps that were taken and some of the problems we found:
 ## Extra
 
   * We looked into whether our GoodReads ratings that we web-scrapped were similar to the ones from which [Kaggle processed](https://www.kaggle.com/gnanesh/goodreads-book-reviews) about a year ago. And this is indeed the case, the ratings did not change much (see [additional/Kaggle_merge_with_Adapted_MoviesList.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/additional/Kaggle_merge_with_Adapted_MoviesList.ipynb)). 
+    * Plots: [kaggle_vs_our_ratings.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/kaggle_vs_our_ratings.png) and [kaggle_vs_our_ratings_diff.png](https://github.com/naim-panjwani/books_and_films/blob/master/Plots/kaggle_vs_our_ratings_diff.png)
