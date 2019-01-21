@@ -56,3 +56,8 @@ Here are the steps that were taken and some of the problems we found:
       * Code: [Loading_into_MongoDB/MongoDump.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/Loading_into_MongoDB/MongoDump.ipynb) and [Loading_into_MongoDB/MongoLoad.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/Loading_into_MongoDB/MongoLoad.ipynb)
       * Input: [Transformed_data/bookListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/bookListDB.csv) and [Transformed_data/movieListDB.csv](https://github.com/naim-panjwani/books_and_films/blob/master/Transformed_data/movieListDB.csv)
       * Output: adapted_scifi_films_db MongoDB database with books and movies collections
+
+
+## Extra
+
+  * We looked into whether our GoodReads ratings that we web-scrapped were similar to the ones from which [Kaggle processed](https://www.kaggle.com/gnanesh/goodreads-book-reviews) about a year ago. And this is indeed the case, the ratings did not change much (see [additional/Kaggle_merge_with_Adapted_MoviesList.ipynb](https://github.com/naim-panjwani/books_and_films/blob/master/additional/Kaggle_merge_with_Adapted_MoviesList.ipynb)). 
