@@ -1,5 +1,6 @@
 *.ipynb_checkpoints/*
 input_csv/br*
 *.DS_Store
+^\~\$.*
 Plots/.ipynb_checkpoints/plot-checkpoint.ipynb
 Transformed_data/.DS_Store
